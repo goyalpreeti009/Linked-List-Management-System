@@ -1,0 +1,32 @@
+
+LINKED LIST MANAGEMENT SYSTEM
+
+1. Singly Linked List
+2. Doubly Linked List
+3. Compare Lists
+4. Exit
+
+Enter your choice: 1
+
+SINGLY LINKED LIST MENU
+
+1. Insert at Beginning
+2. Insert at End
+3. Insert at Position
+4. Insert After Value
+5. Insert Before Value
+6. Delete from Beginning
+7. Delete from End
+8. Delete at Position
+9. Delete by Value
+10. Search
+11. Update
+12. Display
+13. Count Nodes
+14. Find Maximum
+15. Find Minimum
+16. Find Middle
+17. Reverse
+18. Sort
+19. Remove Duplicates
+20. Exit
